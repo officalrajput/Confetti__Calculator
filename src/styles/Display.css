@@ -1,0 +1,17 @@
+.display-input {
+  -webkit-font-smoothing: antialiased;
+  text-align: right;
+  background-color: rgb(29, 28, 28); /* Adjust the background color */
+  color: white;
+  border: 0px;
+  letter-spacing: 1.5px;
+  font-size: 35px;
+  width: 100%; /* Adjust the width */
+  height: 25%; /* Increase the height */
+  padding-top: 35px;
+  padding-right: 10px; /* Add right padding */
+  box-sizing: border-box;
+  outline: none;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+}
