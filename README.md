@@ -1,4 +1,6 @@
-#Confetti Calculator App
+#Confetti_Calculator_App
+
+
 This project is a web-based calculator application with a confetti animation feature.
 
 You can view the live demo of this project hosted on Vercel: Confetti Calculator Demo
