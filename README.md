@@ -1,4 +1,6 @@
 ![image](https://github.com/officalrajput/Confetti__Calculator/assets/92933942/9a7c52c3-dd77-47a6-b616-2538597fde9b)
+![image](https://github.com/officalrajput/Confetti__Calculator/assets/92933942/9c135f3b-68e8-4e10-983d-e5ae26f4de5a)
+
 
 
 #Confetti_Calculator_App
